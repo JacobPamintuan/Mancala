@@ -11,6 +11,7 @@ Might add a feature in the future for the player to play against a "bot" of vary
 
 <img width="834" alt="Screen Shot 2022-06-19 at 9 45 46 PM" src="https://user-images.githubusercontent.com/36178603/174511876-be4f2ec9-81f8-44d0-9891-088ac2e57453.png">
 ###### Start Page
+
 Users can choose how many stones to start with in each pit.
 
 <img width="1512" alt="Screen Shot 2022-06-19 at 9 45 54 PM" src="https://user-images.githubusercontent.com/36178603/174511880-82577604-5e82-4695-961c-c520100126b0.png">
