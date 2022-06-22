@@ -10,6 +10,9 @@ The only difference from the traditional game Mancala, is that when the game end
 Might add a feature in the future for the player to play against a "bot" of varying difficulties.
 
 <img width="834" alt="Screen Shot 2022-06-19 at 9 45 46 PM" src="https://user-images.githubusercontent.com/36178603/174511876-be4f2ec9-81f8-44d0-9891-088ac2e57453.png">
+###### Start Page
+Users can choose how many stones to start with in each pit.
+
 <img width="1512" alt="Screen Shot 2022-06-19 at 9 45 54 PM" src="https://user-images.githubusercontent.com/36178603/174511880-82577604-5e82-4695-961c-c520100126b0.png">
 <img width="1512" alt="Screen Shot 2022-06-19 at 9 46 01 PM" src="https://user-images.githubusercontent.com/36178603/174511886-57300776-5381-4bdb-86f9-6307347343bd.png">
 <img width="1512" alt="Screen Shot 2022-06-19 at 9 46 14 PM" src="https://user-images.githubusercontent.com/36178603/174511889-037f675d-26a7-4dff-9cc2-f8ea998a859e.png">
